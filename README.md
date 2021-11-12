@@ -18,3 +18,4 @@ Desenvolvedor de Software
 </div><br/>
 
 Apaixonado por tecnologia, educação e programação.
+![Snake animation](https://github.com/nikolaslopes/nikolaslopes/blob/output/github-contribution-grid-snake.svg)
