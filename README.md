@@ -5,12 +5,6 @@ Desenvolvedor de Software
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-a-867a03111)
 ![image-nix](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
 
-  <div>
-   <img height=170em align="center" src="https://github-readme-stats.vercel.app/api?username=filipedower&count_private=true&show_icons=true&theme=radical" />
-   <img height=170em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipedower&layout=compact&theme=radical" />
-   <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif"/>
-  </div>
-
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
