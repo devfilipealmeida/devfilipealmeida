@@ -21,7 +21,7 @@ Desenvolvedor de Software
 </div><br/>
 
 ## Últimas Contribuições no GitHub
-[![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipedower&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=devfilipealmeida&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ Experiência Profissional
 
